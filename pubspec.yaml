@@ -1,6 +1,6 @@
 name: shader_texts
 description: Shader Text Package using shader mask
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/sdycode/Shader-Text.git
 
 environment:
